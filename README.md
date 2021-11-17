@@ -9,3 +9,8 @@
     1.打包：将不同类型资源按模块处理进行打包
     2.静态：打包后最终产出静态资源
     3.模块：webpack支持不同规范的模块化开发
+## webpack初使用
+    1.全局安装：npm install webpack webpack-cli g
+    2.项目安装：npm install webpack webpack-cli --save-dev
+## 安装fira code字体；
+## vscode配置live server
